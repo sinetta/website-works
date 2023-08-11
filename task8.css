@@ -1,0 +1,36 @@
+.a1{
+    background-color: rgb(10, 10, 43);
+}
+.a2{
+    color: rgb(242, 153, 45);
+}
+.p1{
+    color: rgb(133, 130, 130);
+}
+.c1{
+    border-bottom: 1px solid rgb(133, 130, 130);
+}
+.a3{
+    font-size: 25px;
+}
+.a4{
+    font-weight: 700;
+    font-size: 50px;
+}
+.b1{
+    padding: 10px 30px 10px 30px;
+    background-color: rgb(241, 97, 97);
+    color: white;
+}
+.b1:hover{
+    background-color:rgb(10, 10, 43);
+}
+.a5{
+    color: rgb(153, 146, 146);
+}
+.n1:hover{
+    color: rgb(163, 9, 9);
+}
+a.n1{
+    color: black;
+}

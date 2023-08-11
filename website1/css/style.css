@@ -1,0 +1,38 @@
+.a1{
+    font-weight: 700;
+    font-size: 50px;
+}
+.col-lg-3{
+    background-color: rgb(10, 10, 43);
+    color: white;
+}
+.a2{
+    color: rgb(242, 153, 45);
+}
+.a3{
+    font-size: 20px;
+}
+.a3:hover{
+    color:rgb(242, 153, 45) ;
+}
+.b1{
+   padding: 9px 30px 9px 30px;
+}
+.b1:hover{
+  background-color: rgb(241, 97, 97);
+}
+.p1{
+    color: rgb(153, 146, 146);
+}
+.r1{
+    border-bottom: 1px solid rgb(153, 146, 146) ;
+}
+.nav-item a{
+    color: black;
+}
+.nav-item a:hover{
+    color: rgb(163, 9, 9);
+}
+.a5{
+    color: rgb(205, 197, 197);
+}
