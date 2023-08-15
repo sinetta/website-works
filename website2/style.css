@@ -1,6 +1,6 @@
-/* .n1{
-    color: black;
-} */
+.n1{
+    position: fixed;
+}
 .c1{
     border-right: 1px solid rgb(202, 188, 188);
 }
@@ -22,4 +22,10 @@ a{
 .i1{
     border-radius: 50%;
     width: 50px;
+}
+.a2{
+    border-bottom: 2px solid rgb(140, 81, 21);
+}
+.r1{
+    padding-top: 100px;
 }
