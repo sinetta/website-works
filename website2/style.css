@@ -1,3 +1,25 @@
-.n1{
+/* .n1{
     color: black;
+} */
+.c1{
+    border-right: 1px solid rgb(202, 188, 188);
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.c3{
+    border: 1px solid rgb(202, 188, 188); 
+}
+.c4{
+    border-top: 1px solid rgb(202, 188, 188);
+    border-left: 1px solid rgb(202, 188, 188);
+    border-right: 1px solid rgb(202, 188, 188);
+}
+.a1{
+    color: silver;
+}
+.i1{
+    border-radius: 50%;
+    width: 50px;
 }
