@@ -37,3 +37,13 @@ a.e1{
 a.e2{
     border-bottom: 1px solid black; 
 }
+.m1{
+    color: rgb(198, 193, 193);
+}
+a.m1:hover{
+    color: white;
+}
+.i2{
+    width: 15px;
+ 
+}
