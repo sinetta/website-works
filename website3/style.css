@@ -1,0 +1,20 @@
+.c1{
+   background-color: darkorange;
+}
+.i1{
+    width: 25px;
+}
+.a1{
+    font-size: 13px;
+    color: white;
+}
+.c2{
+    background-color: white;
+}
+.b1{
+    border-radius: 25px;
+    background-color: dodgerblue;
+    }
+.b1:hover{
+    color:darkorange ;
+}    
