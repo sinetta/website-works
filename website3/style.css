@@ -14,7 +14,14 @@
 .b1{
     border-radius: 25px;
     background-color: dodgerblue;
+    
     }
 .b1:hover{
     color:darkorange ;
 }    
+.i5{
+    border-radius: 20px;
+}
+.r5{
+    border-bottom: 2px solid silver;
+}
