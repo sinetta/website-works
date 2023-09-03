@@ -4,12 +4,30 @@
 }
 .i1{
     width: 20px;
+    /* border: 2px solid white;
+    border-radius: 100%; */
 }
+    
 .a1{
     text-decoration: none;
     color: white;
 }
 .a1:hover{
     color: white;
-
-    }
+}
+.l1{
+    font-size: 13px;
+    font-weight: bold;
+}
+.f1{
+    border: none;
+    border-bottom: 1px solid rgb(224, 222, 222);
+}
+.B1{
+    padding: 10px 15px 10px 15px;
+    background-color:rgb(35, 224, 158) ;
+    border: none;
+}
+.B1:hover{
+    background-color: rgb(15, 172, 117);
+}
