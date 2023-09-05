@@ -1,6 +1,13 @@
+
 .c1{
     background-color: rgb(31, 221, 158);
     color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.c2{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 .i1{
     width: 20px;
@@ -16,7 +23,7 @@
     color: white;
 }
 .l1{
-    font-size: 13px;
+    font-size: 18px;
     font-weight: bold;
 }
 .f1{
@@ -24,10 +31,13 @@
     border-bottom: 1px solid rgb(224, 222, 222);
 }
 .B1{
-    padding: 10px 15px 10px 15px;
+    padding: 15px 20px 15px 20px;
     background-color:rgb(35, 224, 158) ;
     border: none;
 }
 .B1:hover{
     background-color: rgb(15, 172, 117);
+}
+.p1{
+    font-size: 20px;
 }
