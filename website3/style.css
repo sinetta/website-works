@@ -56,6 +56,7 @@ h1.h2{
     border: none;
     padding: 10px 10px 10px 10px;
     color: white;
+    margin-right: 140px;
     }
 .b1:hover{
     color:darkorange ;
@@ -107,6 +108,7 @@ a.l2{
       color: black;
       font-weight: bold;
       padding-right: 10px;
+      margin-right: 50px;
 }
 a.l2:hover{
             color:coral ;

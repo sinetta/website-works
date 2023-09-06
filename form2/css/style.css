@@ -1,4 +1,7 @@
-.p1{
+ .r1{
+    width: 980px;
+ }
+ .p1{
     font-size: 20px;
 }
 .i1{
@@ -10,4 +13,24 @@
 }
 .a1:hover{
     color: black;
+}
+.f1{
+    border: none;
+    border-bottom: 1px solid rgb(224, 222, 222);
+    background-color: transparent;
+    color: rgba(255, 255, 255, 0.8);
+    height: 60px;
+    
+}
+.c1{
+    background-color: rgb(88, 21, 135);
+    }
+.B1{
+    border: none;
+    background-color: rgb(222, 9, 168);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.B1:hover{
+     background-color:rgb(184, 11, 141) ;
 }
