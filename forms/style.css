@@ -11,8 +11,11 @@
 }
 .i1{
     width: 20px;
-    /* border: 2px solid white;
-    border-radius: 100%; */
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 12px;
+    width: 45px;
+    border-color: rgb(219, 215, 215);
 }
     
 .a1{

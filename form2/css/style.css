@@ -1,8 +1,9 @@
  .r1{
     width: 980px;
+    box-shadow: 5px 5px 50px black;
  }
  .p1{
-    font-size: 20px;
+    font-size: 15px;
 }
 .i1{
     width: 30px;
@@ -28,9 +29,25 @@
 .B1{
     border: none;
     background-color: rgb(222, 9, 168);
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 13px;
+    padding-bottom: 13px;
 }
 .B1:hover{
      background-color:rgb(184, 11, 141) ;
+}
+
+img.i1{
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 12px;
+    width: 45px;
+    border-color: rgb(155, 151, 151);
+    
+}
+.f2{
+    border: none;
+    border-bottom: 1px solid rgb(224, 222, 222);
+    background-color: transparent;
+    color: rgba(255, 255, 255, 0.8);
+    padding-bottom: 70px;
 }
