@@ -1,12 +1,21 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Playfair+Display+SC&family=Roboto:ital,wght@1,300&display=swap');
 
+  /* font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display SC', serif;
+  font-family: 'Roboto', sans-serif; */
 .c1{
     background-color: rgb(5, 173, 230);
 }
 .i1{
     width: 20px;
 }
+.i1:hover{
+    background-color: rgb(206, 220, 231);
+}
+
+
 .c3{
     background-image: url(../images/bg1.jpg);
     background-size:cover;
@@ -14,8 +23,22 @@
     height: 600px;
 
 } 
+.a{
+    color: white;
+    border-radius: 30px;
+    background-color:rgb(33, 127, 158);
+}
+.a:hover{
+    background-color: rgb(5, 173, 230);
+    color: white;
+}
 a.a1{
     color: rgb(61, 59, 59);
+    border-radius: 30px;
+}
+.a1:hover{
+    background-color: rgb(5, 173, 230);
+    color: white;
 }
 .d1{
     color:white;
@@ -26,6 +49,32 @@ a.a1{
 }
 .c4{
     color:black;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
+    font-family: 'Playfair Display', serif
 }
+.d2{
+    background-color: rgb(224, 240, 255);
+}
+.a2{
+    font-family: 'Playfair Display', serif
+}
+.b2{
+    border: 2px solid rgb(5, 173, 230);
+    border-radius: 30px;
+    background-color:rgb(224, 240, 255) ;
+}
+.b2:hover{
+    background-color:rgb(5, 173, 230) ;
+}
+.i3{
+    width:30px ;
+    border: 1px solid rgb(5, 173, 230) ;
+}
+.i4{
+    border-radius: 5px;
+}
+.d3{
+     margin-left: 140px;
+}
+
