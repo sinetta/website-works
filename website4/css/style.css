@@ -5,41 +5,52 @@
   /* font-family: 'Playfair Display', serif;
   font-family: 'Playfair Display SC', serif;
   font-family: 'Roboto', sans-serif; */
-.c1{
-    background-color: rgb(5, 173, 230);
+
+  /* section1 */
+.r1{
+    background-color: rgb(42, 124, 206);
 }
 .i1{
     width: 20px;
 }
-.i1:hover{
-    background-color: rgb(206, 220, 231);
+a.a1{
+    color:white
 }
-
+a.l1{
+    margin-left: 100px;
+    border-radius: 20px;
+    color: black;
+}
+a.l1:hover{
+    background-color: rgb(42, 124, 206);
+    color: white;
+}
+a.l2{
+    border-radius: 20px;
+    color: black;
+}
+a.l2:hover{
+    background-color: rgb(42, 124, 206);
+    color: white;
+}
+a.l3{
+    border-radius: 20px;
+    background-color:  rgb(111, 157, 202);
+    color: white;
+}
+a.l3:hover{
+    background-color: rgb(42, 124, 206);
+    color: white;
+}
 
 .c3{
     background-image: url(../images/bg1.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     height: 600px;
+    overflow: hidden;
 
 } 
-.a{
-    color: white;
-    border-radius: 30px;
-    background-color:rgb(33, 127, 158);
-}
-.a:hover{
-    background-color: rgb(5, 173, 230);
-    color: white;
-}
-a.a1{
-    color: rgb(61, 59, 59);
-    border-radius: 30px;
-}
-.a1:hover{
-    background-color: rgb(5, 173, 230);
-    color: white;
-}
 .d1{
     color:white;
     font-size: 50px;
@@ -76,5 +87,5 @@ a.a1{
 }
 .d3{
      margin-left: 140px;
-}
+} 
 
