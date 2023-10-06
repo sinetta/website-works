@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Playfair+Display&family=Playfair+Display+SC&family=Roboto:ital,wght@1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Playfair+Display+SC&family=Roboto:ital,wght@1,300&display=swap');
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Roboto', sans-serif; */
+
+/* section1 */
+
+.r1{
+    background-color: rgb(42, 124, 206);
+}
+.i1{
+    width: 20px;
+}
+a.a1{
+    color:white
+}
+
+/* section2 */
+ 
+a.l1{
+    margin-left: 100px;
+    border-radius: 20px;
+    color: black;
+}
+a.l1:hover{
+    background-color: rgb(42, 124, 206);
+    color: white;
+}
+a.l2{
+    border-radius: 20px;
+    color: black;
+}
+a.l2:hover{
+    background-color: rgb(42, 124, 206);
+    color: white;
+}
+a.l3{
+    border-radius: 20px;
+    background-color:  rgb(111, 157, 202);
+    color: white;
+}
+a.l3:hover{
+    background-color: rgb(42, 124, 206);
+    color: white;
+}
+
+/* section3 */
+
+.c3{
+    background-image: url(../images/bg1.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 650px;
+    overflow: hidden;
+} 
+.d1{
+    color:white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 250px;
+    font-family: 'Dancing Script', cursive;
+}
+
+/* section4 */
+
+.c4{
+    text-align: center;
+    font-family: 'Playfair Display', serif
+}
+
+/* section5 */
+
+.r2{
+    background-color: rgb(42, 124, 206);
+    padding-top: 100px;
+    overflow: hidden;
+}
+.c5{
+    border: 1px solid rgb(177, 209, 236);
+}
