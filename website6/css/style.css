@@ -74,11 +74,31 @@ a.l3:hover{
 
 /* section5 */
 
-.r2{
+.c5{
+    border: 1px solid rgb(107, 191, 219);
+}
+.i3{
+    width:40px ;
+    border: 1px solid rgb(5, 173, 230);
+    padding:7px;
+    border-radius: 3px;
+  
+}
+.d3{
+    margin-left: 125px;
+}
+.c6{ 
+    border: 1px solid rgb(169, 220, 236);
+    background-color: rgb(131, 203, 224);
+}
+
+
+
+/* .r2{
     background-color: rgb(42, 124, 206);
     padding-top: 100px;
     overflow: hidden;
 }
 .c5{
     border: 1px solid rgb(177, 209, 236);
-}
+} */
