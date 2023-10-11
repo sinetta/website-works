@@ -82,23 +82,27 @@ a.l3:hover{
     border: 1px solid rgb(5, 173, 230);
     padding:7px;
     border-radius: 3px;
-  
 }
 .d3{
     margin-left: 125px;
 }
 .c6{ 
-    border: 1px solid rgb(169, 220, 236);
-    background-color: rgb(131, 203, 224);
+    border-right: 1px solid rgb(130, 180, 196);
+    background-color:rgb(176, 225, 241);
 }
 
-
-
-/* .r2{
+/* section6 */
+.r4{
     background-color: rgb(42, 124, 206);
-    padding-top: 100px;
-    overflow: hidden;
+    padding: 10px;
+    margin-top: 50px;
 }
-.c5{
-    border: 1px solid rgb(177, 209, 236);
-} */
+.c7{
+    border-right:1px solid white;
+    line-height: 70px;
+}
+.i4{
+    margin-left: 50px;
+}
+
+
