@@ -11,12 +11,14 @@ font-family: 'Roboto', sans-serif; */
 
 .r1{
     background-color: rgb(42, 124, 206);
+    position: relative;
 }
 .i1{
     width: 20px;
 }
 a.a1{
-    color:white
+    color:white;
+    text-decoration: none;
 }
 
 /* section2 */
@@ -46,6 +48,12 @@ a.l3{
 a.l3:hover{
     background-color: rgb(42, 124, 206);
     color: white;
+}
+.logo{
+    left: 0;
+    top: 0;
+    z-index: 1;
+    position:absolute;
 }
 
 /* section3 */
@@ -84,11 +92,14 @@ a.l3:hover{
     border-radius: 3px;
 }
 .d3{
-    margin-left: 125px;
+    margin-left: 118px;
 }
 .c6{ 
     border-right: 1px solid rgb(130, 180, 196);
     background-color:rgb(176, 225, 241);
+}
+.r5{
+    border-left: 1px solid rgb(5, 173, 230);
 }
 
 /* section6 */
@@ -137,3 +148,5 @@ a.l4:hover{
      height: 500px;
      border-radius: 5px;
 }
+
+/* section9 */
