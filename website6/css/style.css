@@ -98,11 +98,42 @@ a.l3:hover{
     margin-top: 50px;
 }
 .c7{
-    border-right:1px solid white;
+    border-left:1px solid white;
+    border-right: 1px solid white;
+    line-height: 70px;
+}
+.c8{
+    border-right: 1px solid white;
     line-height: 70px;
 }
 .i4{
-    margin-left: 50px;
+    margin-left: 30px;
 }
 
+/* section7 */
 
+.d5{
+    background-color: rgb(192, 220, 248);
+}
+.c9{
+    font-family: 'Playfair Display', serif;
+}
+.cone{
+    text-align: justify;
+    font-size: 17px;
+}
+a.l4{
+    border: 2px solid rgb(5, 173, 230);
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 10px 30px 10px 30px;
+    color: rgb(5, 173, 230) ;
+}
+a.l4:hover{
+    background-color: rgb(5, 173, 230);
+    color: white;
+}
+.i5{
+     height: 500px;
+     border-radius: 5px;
+}
