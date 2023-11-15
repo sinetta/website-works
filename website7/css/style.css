@@ -1,0 +1,7 @@
+.background{
+    background-image: url(../images/night.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding-top: 500px;
+    padding-bottom:  500px;
+}

@@ -98,9 +98,9 @@ a.l3:hover{
     border-right: 1px solid rgb(130, 180, 196);
     background-color:rgb(176, 225, 241);
 }
-.r5{
+/* .r5{
     border-left: 1px solid rgb(5, 173, 230);
-}
+} */
 
 /* section6 */
 .r4{
@@ -150,3 +150,7 @@ a.l4:hover{
 }
 
 /* section9 */
+
+.i6{
+    width: 15px;
+}
