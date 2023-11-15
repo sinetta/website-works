@@ -103,6 +103,9 @@ a.l3:hover{
 } */
 
 /* section6 */
+.s1{
+    font-size: 25px;
+}
 .r4{
     background-color: rgb(42, 124, 206);
     padding: 10px;
@@ -150,6 +153,13 @@ a.l4:hover{
 }
 
 /* section9 */
+
+.ctwo{
+    border: 1px solid rgb(221, 219, 219);
+}
+.ctwo:hover{
+    border-color: rgb(5, 173, 230);
+}
 
 .i6{
     width: 15px;
