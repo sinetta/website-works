@@ -22,7 +22,7 @@ a.a1{
 }
 
 /* section2 */
- 
+
 a.l1{
     margin-left: 100px;
     border-radius: 20px;
@@ -50,10 +50,13 @@ a.l3:hover{
     color: white;
 }
 .logo{
-    left: 0;
-    top: 0;
+    left:25em;
+    top: 1em;
     z-index: 1;
-    position:absolute;
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    
 }
 
 /* section3 */
@@ -164,3 +167,38 @@ a.l4:hover{
 .i6{
     width: 15px;
 }
+.i7{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+}
+.rone{
+    border-top:  1px solid rgb(221, 219, 219);
+}
+.rone:hover{
+    border-color: rgb(5, 173, 230);
+}
+
+/* section10 */
+
+.cthree{
+    background-color: rgb(42, 124, 206);
+    border-radius: 5px;
+    font-family: 'Playfair Display', serif;
+}
+
+.cfour{
+   font-family:  'Playfair Display', serif;
+}
+.href{
+    text-decoration: none;
+    color: black;
+}
+.href:hover{
+    color: black;
+}
+.i8{
+    width: 10px;
+}
+
+
