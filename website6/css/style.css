@@ -209,6 +209,13 @@ a.l4:hover{
 .i8{
     width: 10px;
 }
+.btn-btn{
+    width: 320px;
+    height: 40px;
+}
+.btn-btn:hover{
+    background-color: white;
+}
  /* section-11 */
 
 .footer{
@@ -257,8 +264,35 @@ a.href2{
     text-decoration: none;
 }
 .icons1{
-    width: 60px;
+    width: 40px;
     border-radius: 50%;
-    background-color: rgb(59, 59, 182);
+    background-color: rgb(67, 67, 194);
     padding: 10px;
+}
+.icons2{
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(18, 195, 248);
+    padding: 10px;
+}
+.icons3{
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(19, 95, 154);
+    padding: 10px;
+}
+.icons4{
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(231, 63, 26);
+    padding: 10px;
+}
+.icons5{
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(67, 67, 194);
+    padding: 10px;
+}
+.para3{
+    background-color: black;
 }
