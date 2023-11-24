@@ -71,6 +71,9 @@ a.l3:hover{
   
 
 } 
+.icon-mouse{
+   
+}
 .d1{
     color:white;
     font-size: 50px;
@@ -190,6 +193,21 @@ a.l4:hover{
 
 /* section10 */
 
+.inp{
+    background-color:rgb(42, 124, 206) ;
+    color: white;
+    width: 320px;
+    height: 40px;
+    border-radius: 5px;
+  
+}
+.inp1{
+    background-color:rgb(42, 124, 206) ;
+    color: white;
+    width: 320px;
+    height: 80px;
+    border-radius: 5px;
+}
 .cthree{
     background-color: rgb(42, 124, 206);
     border-radius: 5px;
@@ -212,6 +230,7 @@ a.l4:hover{
 .btn-btn{
     width: 320px;
     height: 40px;
+    border-radius: 5px;
 }
 .btn-btn:hover{
     background-color: white;
@@ -295,4 +314,5 @@ a.href2{
 }
 .para3{
     background-color: black;
+    padding: 30px;
 }
