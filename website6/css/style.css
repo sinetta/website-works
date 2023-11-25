@@ -70,16 +70,29 @@ a.l3:hover{
     position: relative;
   
 
-} 
-.icon-mouse{
-   
 }
+.c{
+    background-image: url(../images/bg1.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 350px;
+    overflow: hidden;
+    position: relative;
+} 
+
 .d1{
     color:white;
     font-size: 50px;
     text-align: center;
     padding-top: 250px;
     font-family: 'Dancing Script', cursive;
+}
+.d2{
+    color:white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Playfair Display', serif
 }
 
 /* section4 */
@@ -117,23 +130,23 @@ a.l3:hover{
 }
 .r4{
     background-color: rgb(42, 124, 206);
-   
     margin-top: 50px;
 }
 .para1{
-    line-height: 0px;
-    font-weight:40px;
-    font-size: 18px;
-    margin-left: 110px;
+    line-height: 1px;
+    font-weight:10px;
+    font-size: 15px;
+    margin-left: 115px;
+    
 }
 .c7{
     border-left:1px solid white;
     border-right: 1px solid white;
-    line-height: 70px;
+    /* line-height: 11px; */
 }
 .c8{
     border-right: 1px solid white;
-    line-height: 70px;
+    /* line-height: 11px; */
 }
 .i4{
     margin-left: 30px;
