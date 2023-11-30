@@ -162,7 +162,7 @@ a.l3:hover{
 }
 .cone{
     text-align: justify;
-    font-size: 17px;
+    font-size: 15px;
 }
 a.l4{
     border: 2px solid rgb(5, 173, 230);
@@ -179,7 +179,12 @@ a.l4:hover{
      height: 500px;
      border-radius: 5px;
 }
-
+.im5{
+    height:800 ;
+    margin-top: 90px;
+    border-radius: 5px;
+    
+}
 /* section9 */
 
 .ctwo{
