@@ -83,6 +83,9 @@ a.l3:hover{
     height: 650px;
     overflow: hidden;
     position: relative;
+    
+      
+      
   
 
 }
@@ -552,4 +555,30 @@ a.href2{
 .para3{
     background-color: black;
     padding: 30px;
+}
+
+/* section */
+
+.image-icon{
+    border-radius: 50%;
+    width: 80px;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bgr{
+    background-color: #c4e3ed;
+    padding: 70px;
+    width: 400px;
+}
+.ahref{
+    text-decoration: none;
+    color: black;
+}
+.con-form{
+    background-color:  #c4e3ed;
+}
+.imgsrc{
+    border-radius: 10px;
 }
