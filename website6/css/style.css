@@ -582,3 +582,11 @@ a.href2{
 .imgsrc{
     border-radius: 10px;
 }
+.con-form1{
+   padding: 60px;
+}
+.form-control{
+    background-color: #c4e3ed ;
+    border-color: white;
+}
+
